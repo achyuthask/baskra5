@@ -1,0 +1,31 @@
+.luffy{
+    width : 300px;
+    height: 300px;
+    box-shadow : 0px 0px 10px black;
+    padding: 30px 50px 30px ;
+    margin: 150px auto;
+    text-align : center;
+    background-color: rgba(255, 47, 0, 0.638);
+    border-radius: 10px;
+}
+ .one-piece{
+    margin-top: 80px;
+ }
+
+input{
+     color: brown;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: rgb(60, 255, 0);
+
+
+}
+button{
+    background-color: rgb(165, 255, 10);
+    color: rgb(146, 129, 0);
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: rgb(60, 255, 0);
+}

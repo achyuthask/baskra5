@@ -1,0 +1,23 @@
+.narutouzumaki{
+    background-color: rgb(42, 185, 17);
+    color: rgb(220, 239, 255);
+    padding: 5px;
+    display: flex;
+}
+
+#title{
+    width:30%;
+
+}
+#menucomp{
+    width :70%;
+  text-align: end;
+    padding: 10px 800px;
+    display: flex;
+   
+}
+p{
+  
+    margin-right: 30px;
+    
+}
